@@ -1,1 +1,1 @@
-
+Design Thinking is help me to think the solution from the problems that we face in our life. We find the solution to make it convenient to some problem that we face. My team is solving the problem whereby student having a problem to find material study such as past year question and notes. By that, we came with our solution by create a website that all materials study needed is there.
